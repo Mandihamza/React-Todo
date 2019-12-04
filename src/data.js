@@ -35,7 +35,7 @@ export const todos = [
         completed: false
     },
     {
-        task: 'Take a long nap',
+        task: 'Take a longer nap',
         id: 1528817084399,
         completed: false
     },
