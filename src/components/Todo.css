@@ -1,0 +1,10 @@
+.todo {
+    border: solid 1px black;
+    border-radius: 5px;
+    padding: 20px 8px;
+    cursor: pointer;
+  }
+
+.todo.completed {
+    text-decoration: line-through;
+  }
